@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27c8c6a5.css",
+    "main.js": "/static/js/main.92053b24.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/sun-white.svg": "/static/media/sun-white.4d4ca6064a5c13fb9fad0c2103cb2b32.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/filter-black.svg": "/static/media/filter-black.55656555f6680065bd7c1310455e50fe.svg",
+    "static/media/pie-white.svg": "/static/media/pie-white.d630b0de949a991f97bc414ded369ea2.svg",
+    "index.html": "/index.html",
+    "static/media/page-white.svg": "/static/media/page-white.f8e7c6c4e276c213168397a9c91c649e.svg",
+    "static/media/profile-white.svg": "/static/media/profile-white.acbf97b1284af8a88fe5842e34dc6133.svg",
+    "static/media/profile.svg": "/static/media/profile.b5b481021bf5a974637a9631e1b1eeae.svg",
+    "static/media/moon-white.svg": "/static/media/moon-white.bb763e3f78e270f9a5dda0767dead47c.svg",
+    "static/media/ui-icons_444444_256x240.html": "/static/media/ui-icons_444444_256x240.327f7739cc114284c2fc.html",
+    "static/media/ui-icons_555555_256x240.html": "/static/media/ui-icons_555555_256x240.327f7739cc114284c2fc.html",
+    "static/media/ui-icons_777620_256x240.html": "/static/media/ui-icons_777620_256x240.327f7739cc114284c2fc.html",
+    "static/media/ui-icons_777777_256x240.html": "/static/media/ui-icons_777777_256x240.327f7739cc114284c2fc.html",
+    "static/media/ui-icons_cc0000_256x240.html": "/static/media/ui-icons_cc0000_256x240.327f7739cc114284c2fc.html",
+    "static/media/ui-icons_ffffff_256x240.html": "/static/media/ui-icons_ffffff_256x240.327f7739cc114284c2fc.html",
+    "static/media/close-white.svg": "/static/media/close-white.2c463fab82cd6475e9b4b5b7f079c973.svg",
+    "static/media/arrow-bottom.svg": "/static/media/arrow-bottom.2900102d2505a9f1272e.svg",
+    "static/media/arrow-bottom-white.svg": "/static/media/arrow-bottom-white.1ae02f2960ce790b5c86.svg",
+    "static/media/check-white.svg": "/static/media/check-white.1e6a294973334671e196.svg",
+    "static/media/burger-white.svg": "/static/media/burger-white.37c9cd515d57d5d23b915cee10dc2ca9.svg",
+    "static/media/chevron-right-black.svg": "/static/media/chevron-right-black.fcbb9517e229e162c52f04489fc20fbc.svg",
+    "main.27c8c6a5.css.map": "/static/css/main.27c8c6a5.css.map",
+    "main.92053b24.js.map": "/static/js/main.92053b24.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27c8c6a5.css",
+    "static/js/main.92053b24.js"
+  ]
+}
